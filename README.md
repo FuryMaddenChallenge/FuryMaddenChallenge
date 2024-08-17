@@ -1,1 +1,83 @@
-# FuryMaddenChallenge
+# Fury Madden Challenge 2024 - 2025
+
+This is the official repository for the Fury Madden Challenge of the 2024 to 2025 season! Rules and results will be kept here.
+
+# Results
+
+|Game                                    | C's Score | J's Score | C's Team   | J's Team   | C's Section Record | J's Section Record | C's Section Points | J's Section Points |
+|---                                     |---        |---        |---         |---         |---                 |---                 |---                 |---                 |
+|Superbowl                               |           |           |            |            |  0 - 0             |  0 - 0             |     0              |     0              |
+|---                                     |---        |---        |---         |---         |---                 |---                 |---                 |---                 |
+|~~Conference Championship Tiebreaker~~  |           |           |            |            |                    |                    |                    |                    |
+|NFC Championship                        |           |           |            |            |                    |                    |                    |                    |
+|AFC Championship                        |           |           |            |            |  0 - 0             |  0 - 0             |     0              |     0              |
+|---                                     |---        |---        |---         |---         |---                 |---                 |---                 |---                 |
+|~~Regular Season Tiebreaker~~           |           |           |            |            |                    |                    |                    |                    |
+|Week 18                                 |           |           |            |            |                    |                    |                    |                    |
+|Week 17                                 |           |           |            |            |                    |                    |                    |                    |
+|Week 16                                 |           |           |            |            |                    |                    |                    |                    |
+|Week 15                                 |           |           |            |            |                    |                    |                    |                    |
+|Week 14                                 |           |           |            |            |                    |                    |                    |                    |
+|Week 13                                 |           |           |            |            |                    |                    |                    |                    |
+|Week 12                                 |           |           |            |            |                    |                    |                    |                    |
+|Week 11                                 |           |           |            |            |                    |                    |                    |                    |
+|Week 10                                 |           |           |            |            |                    |                    |                    |                    |
+| Week 9                                 |           |           |            |            |                    |                    |                    |                    |
+| Week 8                                 |           |           |            |            |                    |                    |                    |                    |
+| Week 7                                 |           |           |            |            |                    |                    |                    |                    |
+| Week 6                                 |           |           |            |            |                    |                    |                    |                    |
+| Week 5                                 |           |           |            |            |                    |                    |                    |                    |
+| Week 4                                 |           |           |            |            |                    |                    |                    |                    |
+| Week 3                                 |           |           |            |            |                    |                    |                    |                    |
+| Week 2                                 |           |           |            |            |                    |                    |                    |                    |
+| Week 1                                 |           |           |            |            |  0 - 0             |  0 - 0             |     0              |     0              |
+|---                                     |---        |---        |---         |---         |---                 |---                 |---                 |---                 |
+|Hall-of-fame                            |           |           | Texans     | Bears      |  0 - 0             |  0 - 0             |     0              |     0              |
+          
+# Rules
+
+## In-game rules
+
+- The stadium, time, and weather will be selected based on the stadium of the corresponding NFL game (if possible, otherwise whatever the game allows).
+- Any uniform may be chosen. It is encouraged to play with the uniforms that the NFL teams will choose.
+- Fatigue is **Off**
+- Game skill is **Pro**
+- The superbowl uses **10-minute** quarters.
+- The conference championship games use **8-minute** quarters.
+- The regular season games and hall-of-fame game use **6-minute** quarters.
+- Accelerated clock is on. Play clock remaining is **20 seconds**.
+- Injuries are **off**
+- Even teams are **off**
+- Game style is **competitive**
+
+## Winner
+
+The winner of the superbowl is the winner of the Fury Madden Challenge.
+
+## Superbowl
+
+There is one superbowl. The participants will compete with the teams that make the NFL superbowl. The winner of the conference championships will choose the team in the superbowl.
+
+## Conference championships
+
+There are two conference championships, AFC and NFC. In each conference championship, the participants will compete with the teams that make the NFL conference championship in each season. The winner of the regular season gets to choose the teams for both games. The winner of the conference championship is determined by the following process.
+
+1. If one participant wins both games, that participant is the winner.
+
+2. If each participant wins one game, the participant with the most total points in both games is the winner.
+
+3. If each participant wins one game and the total points in both games are tied, the winner of the final regular season game (or regular-season tie-breaker if applicable) is the winner.
+
+## Regular season
+
+There will be 18 regular season games. The participants will compete with teams that play each other in the NFL each week. For each regular season game except the first, the winner of the previous week will pick the matchup. The loser will pick the team. For the first game, the loser of the Hall-of-fame game picks the matchup and the winner picks the team. The same teams may not be chosen in back-to-back weeks. The winner of the regular season is determined by the following process.
+
+1. If one participant has more wins, that participant is the winner.
+
+2. If both participants have 9 wins, the participant with the most points scored throughout the regular season is the winner.
+
+3. If both participants have 9 wins and the points scored throughout the season is tied, there will be a tie-breaker game between the two teams in the NFL with the worst record during their regular season. The winner of the last game of the regular season picks the team. The other participant gets home-field advantage.
+
+## Hall-of-fame game
+
+There is one Hall-of-fame game. The older participant plays the Bears. The younger participant plays the Texans.
