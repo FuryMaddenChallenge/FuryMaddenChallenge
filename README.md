@@ -60,7 +60,7 @@ There is one superbowl. The participants will compete with the teams that make t
 
 ## Conference championships
 
-There are two conference championships, AFC and NFC. In each conference championship, the participants will compete with the teams that make the NFL conference championship in each season. The winner of the regular season gets to choose the teams for both games. The winner of the conference championship is determined by the following process.
+There are two conference championships, AFC and NFC. In each conference championship, the participants will compete with the teams that make it to each NFL conference championship. The winner of the regular season gets to choose the teams for both games. The winner of the conference championship is determined by the following process.
 
 1. If one participant wins both games, that participant is the winner.
 
