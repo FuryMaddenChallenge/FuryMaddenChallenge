@@ -4,35 +4,35 @@ This is the official repository for the Fury Madden Challenge of the 2024 to 202
 
 # Results
 
-|Game                                    | C's Score | J's Score | C's Team   | J's Team   | C's Section Record | J's Section Record | C's Section Points | J's Section Points |
-|---                                     |---        |---        |---         |---         |---                 |---                 |---                 |---                 |
-|Superbowl                               |           |           |            |            |  0 - 0             |  0 - 0             |     0              |     0              |
-|---                                     |---        |---        |---         |---         |---                 |---                 |---                 |---                 |
-|~~Conference Championship Tiebreaker~~  |           |           |            |            |                    |                    |                    |                    |
-|NFC Championship                        |           |           |            |            |                    |                    |                    |                    |
-|AFC Championship                        |           |           |            |            |  0 - 0             |  0 - 0             |     0              |     0              |
-|---                                     |---        |---        |---         |---         |---                 |---                 |---                 |---                 |
-|~~Regular Season Tiebreaker~~           |           |           |            |            |                    |                    |                    |                    |
-|Week 18                                 |           |           |            |            |                    |                    |                    |                    |
-|Week 17                                 |           |           |            |            |                    |                    |                    |                    |
-|Week 16                                 |           |           |            |            |                    |                    |                    |                    |
-|Week 15                                 |           |           |            |            |                    |                    |                    |                    |
-|Week 14                                 |           |           |            |            |                    |                    |                    |                    |
-|Week 13                                 |           |           |            |            |                    |                    |                    |                    |
-|Week 12                                 |           |           |            |            |                    |                    |                    |                    |
-|Week 11                                 |           |           |            |            |                    |                    |                    |                    |
-|Week 10                                 |           |           |            |            |                    |                    |                    |                    |
-| Week 9                                 |           |           |            |            |                    |                    |                    |                    |
-| Week 8                                 |           |           |            |            |                    |                    |                    |                    |
-| Week 7                                 |           |           |            |            |                    |                    |                    |                    |
-| Week 6                                 |           |           |            |            |                    |                    |                    |                    |
-| Week 5                                 |           |           |            |            |                    |                    |                    |                    |
-| Week 4                                 |           |           |            |            |                    |                    |                    |                    |
-| Week 3                                 |           |           |            |            |                    |                    |                    |                    |
-| Week 2                                 |           |           |            |            |                    |                    |                    |                    |
-| Week 1                                 |           |           |            |            |  0 - 0             |  0 - 0             |     0              |     0              |
-|---                                     |---        |---        |---         |---         |---                 |---                 |---                 |---                 |
-|Hall-of-fame                            |           |           | Texans     | Bears      |  0 - 0             |  0 - 0             |     0              |     0              |
+|Game                                                                                | C's Score | J's Score | C's Team    | J's Team    | C's Section Record | J's Section Record | C's Section Points | J's Section Points |
+|---                                                                                 |---        |---        |---          |---          |---                 |---                 |---                 |---                 |
+|[Superbowl](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=SB)       |           |           |             |             |  0 - 0             |  0 - 0             |     0              |     0              |
+|---                                                                                 |---        |---        |---          |---          |---                 |---                 |---                 |---                 |
+|~~Conference Championship Tiebreaker~~                                              |           |           |             |             |                    |                    |                    |                    |
+|[NFC Championship](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=CC)|           |           |             |             |                    |                    |                    |                    |
+|[AFC Championship](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=CC)|           |           |             |             |  0 - 0             |  0 - 0             |     0              |     0              |
+|---                                                                                 |---        |---        |---          |---          |---                 |---                 |---                 |---                 |
+|~~Regular Season Tiebreaker~~                                                       |           |           |             |             |                    |                    |                    |                    |
+|[Week 18](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=18)         |           |           |             |             |                    |                    |                    |                    |
+|[Week 17](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=17)         |           |           |             |             |                    |                    |                    |                    |
+|[Week 16](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=16)         |           |           |             |             |                    |                    |                    |                    |
+|[Week 15](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=15)         |           |           |             |             |                    |                    |                    |                    |
+|[Week 14](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=14)         |           |           |             |             |                    |                    |                    |                    |
+|[Week 13](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=13)         |           |           |             |             |                    |                    |                    |                    |
+|[Week 12](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=12)         |           |           |             |             |                    |                    |                    |                    |
+|[Week 11](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=11)         |           |           |             |             |                    |                    |                    |                    |
+|[Week 10](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=10)         |           |           |             |             |                    |                    |                    |                    |
+| [Week 9](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=9)          |           |           |             |             |                    |                    |                    |                    |
+| [Week 8](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=8)          |           |           |             |             |                    |                    |                    |                    |
+| [Week 7](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=7)          |           |           |             |             |                    |                    |                    |                    |
+| [Week 6](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=6)          |           |           |             |             |                    |                    |                    |                    |
+| [Week 5](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=5)          |           |           |             |             |                    |                    |                    |                    |
+| [Week 4](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=4)          |           |           |             |             |                    |                    |                    |                    |
+| [Week 3](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=3)          |           |           |             |             |                    |                    |                    |                    |
+| [Week 2](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=2)          |           |           |             |             |                    |                    |                    |                    |
+| [Week 1](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=1)          |           |           |             |             |  0 - 0             |  0 - 0             |     0              |     0              |
+|---                                                                                 |---        |---        |---          |---          |---                 |---                 |---                 |---                 |
+|Hall-of-fame                                                                        |           |           | Texans      | Bears       |  0 - 0             |  0 - 0             |     0              |     0              |
           
 # Rules
 
