@@ -32,7 +32,7 @@ This is the official repository for the Fury Madden Challenge of the 2024 to 202
 | [Week 2](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=2)          |           |           |             |             |                    |                    |                    |                    |
 | [Week 1](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=1)          |           |           |             |             |  0 - 0             |  0 - 0             |     0              |     0              |
 |---                                                                                 |---        |---        |---          |---          |---                 |---                 |---                 |---                 |
-|Hall-of-fame                                                                        |           |           | Texans      | Bears       |  0 - 0             |  0 - 0             |     0              |     0              |
+|Hall-of-fame                                                                        |**42**     |7          | **Texans**  | Bears       |  1 - 0             |  0 - 1             |     42             |     7              |
           
 # Rules
 
