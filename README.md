@@ -4,9 +4,9 @@ This is the official repository for the Fury Madden Challenge of the 2024 to 202
 
 # Results
 
-|Game                                                                                | C's Score | J's Score | C's Team    | J's Team    | C's Section Record | J's Section Record | C's Section Points | J's Section Points |
+|Game                                                                                | C's Score | J's Score | C's Team <img src="https://media0.giphy.com/media/3o7aDczpCChShEG27S/giphy.gif?cid=6c09b952z0aw4zp7iphrlhi74f94s6mwgjd765a2hwyr0he6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=40 height=40 />  | J's Team    | C's Section Record | J's Section Record | C's Section Points | J's Section Points |
 |---                                                                                 |---        |---        |---          |---          |---                 |---                 |---                 |---                 |
-|[Superbowl](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=SB)       |           |           |             |             |  0 - 0             |  0 - 0             |     0              |     0              |
+|[Superbowl](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=SB)       | **58**    | 21        | **Chiefs**  | Eagles      |  1 - 0             |  0 - 1             |     58             |     21             |
 |---                                                                                 |---        |---        |---          |---          |---                 |---                 |---                 |---                 |
 |~~Conference Championship Tiebreaker~~                                              |           |           |             |             |                    |                    |                    |                    |
 |[NFC Championship](https://gridirongames.com/nfl-weekly-schedule/?Year=2024&Week=CC)| **41**    | 10        | **Eagles**  | Commanders  |  2 - 0             |  0 - 2             |     73             |     30             |
