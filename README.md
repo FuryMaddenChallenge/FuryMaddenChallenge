@@ -28,7 +28,7 @@ This is the official repository for the Fury Madden Challenge of the 2025 to 202
 | [Week 6](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=6)          |           |           |             |             |                    |                    |                    |                    |
 | [Week 5](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=5)          |           |           |             |             |                    |                    |                    |                    |
 | [Week 4](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=4)          |           |           |             |             |                    |                    |                    |                    |
-| [Week 3](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=3)          |           |           |             |             |                    |                    |                    |                    |
+| [Week 3](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=3)          |  27       | 28        | Chargers    | **Broncos** | 1 - 2              | 2 - 1              | 75                 | 68                 |
 | [Week 2](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=2)          |  12       | 19        | Dolphins    | **Patriots**| 1 - 1              | 1 - 1              | 48                 | 40                 |
 | [Week 1](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=1)          |  36       | 21        | **Ravens**  | Bills       | 1 - 0              | 0 - 1              | 36                 | 21                 |
           
