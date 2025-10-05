@@ -26,11 +26,11 @@ This is the official repository for the Fury Madden Challenge of the 2025 to 202
 | [Week 8](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=8)          |           |           |             |             |                    |                    |                    |                    |
 | [Week 7](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=7)          |           |           |             |             |                    |                    |                    |                    |
 | [Week 6](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=6)          |           |           |             |             |                    |                    |                    |                    |
-| [Week 5](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=5)          |           |           |             |             |                    |                    |                    |                    |
-| [Week 4](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=4)          |  24       | 22        | **Chiefs**  | Ravens      | 2 - 2              | 2 - 2              | 99                 | 90                 |
-| [Week 3](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=3)          |  27       | 28        | Chargers    | **Broncos** | 1 - 2              | 2 - 1              | 75                 | 68                 |
-| [Week 2](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=2)          |  12       | 19        | Dolphins    | **Patriots**| 1 - 1              | 1 - 1              | 48                 | 40                 |
-| [Week 1](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=1)          |  36       | 21        | **Ravens**  | Bills       | 1 - 0              | 0 - 1              | 36                 | 21                 |
+| [Week 5](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=5)          |  20       | 19        | **Rams**    | 49ers       | 3 - 2              | 2 - 3              | 119                | 109                |
+| [Week 4](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=4)          |  24       | 22        | **Chiefs**  | Ravens      | 2 - 2              | 2 - 2              |  99                |  90                |
+| [Week 3](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=3)          |  27       | 28        | Chargers    | **Broncos** | 1 - 2              | 2 - 1              |  75                |  68                |
+| [Week 2](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=2)          |  12       | 19        | Dolphins    | **Patriots**| 1 - 1              | 1 - 1              |  48                |  40                |
+| [Week 1](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=1)          |  36       | 21        | **Ravens**  | Bills       | 1 - 0              | 0 - 1              |  36                |  21                |
           
 # Rules
 
