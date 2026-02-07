@@ -4,9 +4,9 @@ This is the official repository for the Fury Madden Challenge of the 2025 to 202
 
 # Results
 
-|Game                                                                                | C's Score | J's Score | C's Team    | J's Team    | C's Section Record | J's Section Record | C's Section Points | J's Section Points |
+|Game                                                                                | C's Score | J's Score | C's Team <img src="https://media0.giphy.com/media/3o7aDczpCChShEG27S/giphy.gif?cid=6c09b952z0aw4zp7iphrlhi74f94s6mwgjd765a2hwyr0he6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=40 height=40 />  | J's Team    | C's Section Record | J's Section Record | C's Section Points | J's Section Points |
 |---                                                                                 |---        |---        |---          |---          |---                 |---                 |---                 |---                 |
-|[Superbowl](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=SB)       |           |           |             |             |                    |                    |                    |                    |
+|[Superbowl](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=SB)       |  42       | 14        | **Seahawks**| Patriots    | 1 - 0              | 0 - 1              | 42                 | 14                 |
 |---                                                                                 |---        |---        |---          |---          |---                 |---                 |---                 |---                 |
 |~~Conference Championship Tiebreaker~~                                              |           |           |             |             |                    |                    |                    |                    |
 |[NFC Championship](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=CC)|  35       | 29        | **Seahawks**| Rams        | 1 - 0              | 1 - 1              | 65                 | 62                 |
