@@ -1,36 +1,36 @@
-# Fury Madden Challenge 2025 - 2026
+# Fury Madden Challenge 2026 - 2027
 
-This is the official repository for the Fury Madden Challenge of the 2025 to 2026 season! Rules and results will be kept here.
+This is the official repository for the Fury Madden Challenge of the 2026 to 2027 season! Rules and results will be kept here.
 
 # Results
 
 |Game                                                                                | C's Score | J's Score | C's Team    | J's Team    | C's Section Record | J's Section Record | C's Section Points | J's Section Points |
 |---                                                                                 |---        |---        |---          |---          |---                 |---                 |---                 |---                 |
-|[Superbowl](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=SB)       |           |           |             |             |                    |                    |                    |                    |
+|[Superbowl](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=SB)       |           |           |             |             |                    |                    |                    |                    |
 |---                                                                                 |---        |---        |---          |---          |---                 |---                 |---                 |---                 |
 |~~Conference Championship Tiebreaker~~                                              |           |           |             |             |                    |                    |                    |                    |
-|[NFC Championship](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=CC)|           |           |             |             |                    |                    |                    |                    |
-|[AFC Championship](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=CC)|           |           |             |             |                    |                    |                    |                    |
+|[NFC Championship](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=CC)|           |           |             |             |                    |                    |                    |                    |
+|[AFC Championship](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=CC)|           |           |             |             |                    |                    |                    |                    |
 |---                                                                                 |---        |---        |---          |---          |---                 |---                 |---                 |---                 |
 |~~Regular Season Tiebreaker~~                                                       |           |           |             |             |                    |                    |                    |                    |
-|[Week 18](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=18)         |           |           |             |             |                    |                    |                    |                    |
-|[Week 17](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=17)         |           |           |             |             |                    |                    |                    |                    |
-|[Week 16](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=16)         |           |           |             |             |                    |                    |                    |                    |
-|[Week 15](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=15)         |           |           |             |             |                    |                    |                    |                    |
-|[Week 14](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=14)         |           |           |             |             |                    |                    |                    |                    |
-|[Week 13](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=13)         |           |           |             |             |                    |                    |                    |                    |
-|[Week 12](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=12)         |           |           |             |             |                    |                    |                    |                    |
-|[Week 11](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=11)         |           |           |             |             |                    |                    |                    |                    |
-|[Week 10](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=10)         |           |           |             |             |                    |                    |                    |                    |
-| [Week 9](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=9)          |           |           |             |             |                    |                    |                    |                    |
-| [Week 8](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=8)          |           |           |             |             |                    |                    |                    |                    |
-| [Week 7](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=7)          |           |           |             |             |                    |                    |                    |                    |
-| [Week 6](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=6)          |           |           |             |             |                    |                    |                    |                    |
-| [Week 5](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=5)          |           |           |             |             |                    |                    |                    |                    |
-| [Week 4](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=4)          |           |           |             |             |                    |                    |                    |                    |
-| [Week 3](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=3)          |           |           |             |             |                    |                    |                    |                    |
-| [Week 2](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=2)          |           |           |             |             |                    |                    |                    |                    |
-| [Week 1](https://gridirongames.com/nfl-weekly-schedule/?Year=2025&Week=1)          |           |           |             |             |                    |                    |                    |                    |
+|[Week 18](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=18)         |           |           |             |             |                    |                    |                    |                    |
+|[Week 17](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=17)         |           |           |             |             |                    |                    |                    |                    |
+|[Week 16](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=16)         |           |           |             |             |                    |                    |                    |                    |
+|[Week 15](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=15)         |           |           |             |             |                    |                    |                    |                    |
+|[Week 14](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=14)         |           |           |             |             |                    |                    |                    |                    |
+|[Week 13](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=13)         |           |           |             |             |                    |                    |                    |                    |
+|[Week 12](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=12)         |           |           |             |             |                    |                    |                    |                    |
+|[Week 11](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=11)         |           |           |             |             |                    |                    |                    |                    |
+|[Week 10](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=10)         |           |           |             |             |                    |                    |                    |                    |
+| [Week 9](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=9)          |           |           |             |             |                    |                    |                    |                    |
+| [Week 8](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=8)          |           |           |             |             |                    |                    |                    |                    |
+| [Week 7](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=7)          |           |           |             |             |                    |                    |                    |                    |
+| [Week 6](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=6)          |           |           |             |             |                    |                    |                    |                    |
+| [Week 5](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=5)          |           |           |             |             |                    |                    |                    |                    |
+| [Week 4](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=4)          |           |           |             |             |                    |                    |                    |                    |
+| [Week 3](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=3)          |           |           |             |             |                    |                    |                    |                    |
+| [Week 2](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=2)          |           |           |             |             |                    |                    |                    |                    |
+| [Week 1](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=1)          |           |           |             |             |                    |                    |                    |                    |
           
 # Rules
 
@@ -39,14 +39,14 @@ This is the official repository for the Fury Madden Challenge of the 2025 to 202
 - The stadium, time, and weather will be selected based on the stadium of the corresponding NFL game (if possible, otherwise whatever the game allows).
 - Any uniform may be chosen. It is encouraged to play with the uniforms that the NFL teams will choose.
 - Fatigue is **Off**
-- Game skill is **Pro**
+- Game skill is **Rookie**
 - The superbowl uses **10-minute** quarters.
 - The conference championship games use **8-minute** quarters.
 - The regular season games use **6-minute** quarters.
 - Accelerated clock is on. Play clock remaining is **20 seconds**.
 - Injuries are **off**
 - Even teams are **off**
-- Game style is **competitive**
+- Game style is **Arcade**
 
 ## Winner
 
