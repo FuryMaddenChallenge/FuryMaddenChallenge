@@ -30,7 +30,7 @@ This is the official repository for the Fury Madden Challenge of the 2026 to 202
 | [Week 4](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=4)          |           |           |             |             |                    |                    |                    |                    |
 | [Week 3](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=3)          |           |           |             |             |                    |                    |                    |                    |
 | [Week 2](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=2)          |           |           |             |             |                    |                    |                    |                    |
-| [Week 1](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=1)          |           |           |             |             |                    |                    |                    |                    |
+| [Week 1](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=1)          | 49        | 12        | 49ers       | Rams        | 1 - 0              | 0 - 1              | 49                 | 12                 |
           
 # Rules
 
