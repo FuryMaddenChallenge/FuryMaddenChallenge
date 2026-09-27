@@ -28,7 +28,7 @@ This is the official repository for the Fury Madden Challenge of the 2026 to 202
 | [Week 6](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=6)          |           |           |             |             |                    |                    |                    |                    |
 | [Week 5](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=5)          |           |           |             |             |                    |                    |                    |                    |
 | [Week 4](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=4)          |           |           |             |             |                    |                    |                    |                    |
-| [Week 3](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=3)          |           |           |             |             |                    |                    |                    |                    |
+| [Week 3](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=3)          | 28        | 22        | Eagles      | Bears       | 3 - 0              | 0 - 3              | 105                | 40                 |
 | [Week 2](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=2)          | 34        | 6         | Lions       | Bills       | 2 - 0              | 0 - 2              | 83                 | 18                 |
 | [Week 1](https://gridirongames.com/nfl-weekly-schedule/?Year=2026&Week=1)          | 49        | 12        | 49ers       | Rams        | 1 - 0              | 0 - 1              | 49                 | 12                 |
           
